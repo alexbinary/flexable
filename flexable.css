@@ -1,0 +1,27 @@
+/*
+ * flexable.css
+ *
+ * ultra basic flexbox helper
+ *
+ * author: Alexandre Bintz <alexandre@bintz.io>
+ * 11.2015
+ */
+
+/*
+ * horizontal container (the default)
+ */
+.fa-box,
+.fa-box-h
+{ display: flex; flex-direction: row; }
+
+/*
+ * vertical container
+ */
+.fa-box-v
+{ display: flex; flex-direction: column; }
+
+/*
+ * spacer
+ */
+.fa-stretch
+{ flex-grow: 1; }
