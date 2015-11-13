@@ -47,5 +47,5 @@ Will give something like :
 
 ## License
 
-The MIT License (MIT) - Copyright (c) 2015 Alexandre Bintz <alexandre@bintz.io>
+The MIT License (MIT) - Copyright (c) 2015 Alexandre Bintz <alexandre@bintz.io>  
 See [LICENSE](LICENSE) file for full text.
